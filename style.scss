@@ -1,0 +1,29 @@
+
+.login-card {
+    min-width: 400px;
+    max-width: 500px;
+// top: 50%;
+// left: 50%;
+// transform:  translateX(-50%) translateY(-50%);
+form {
+    box-sizing: border-box;
+.invalid-text {
+    top: 104%;
+}
+.wrong-email-pass-msg {
+    bottom: 155px;
+    right: 3rem;
+    width: auto;
+}
+}
+label {
+    font-weight: 600;
+}
+label[for="remember-me"] {
+    user-select: none;
+}
+.signup-link {
+    cursor: pointer;
+}
+}
+
